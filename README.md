@@ -9,7 +9,7 @@ Ensure you have the latest version of Python installed. :snake:
 
 #### Place the Script in the desired location:
 - Create a folder named 'Script' in 'C:'
-- Place 'folderGen.py' in 'C:\Script'
+- Place 'foldergen.py' in 'C:\Script'
 
 #### Add your new Script folder to the PATH:
 - Click... `Start`
@@ -35,7 +35,7 @@ Ensure you have the latest version of Python installed. :snake:
   - Drag the folder `this` into the cmd window
 - Click on the cmd window and press `Enter`
   - cmd should now display something akin to `C:\programs\fruit\this>`
-- Type `folderGen.py` and press `Enter`
+- Type `foldergen.py` and press `Enter`
 
 :metal: Super happy folder time! :tada:
 
